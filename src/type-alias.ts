@@ -10,7 +10,7 @@ function createUserActions(): UserAction {
     return {
         do() {},
         name: ''
-    }
+    } 
 }
 
 type StringOrNumber = string | number;
